@@ -1,0 +1,13 @@
+body {
+    background: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: vendana;
+    font-size: 20px;
+}
